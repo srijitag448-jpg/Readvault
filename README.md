@@ -27,7 +27,7 @@ ReadVault is a beginner-friendly **Solidity smart contract** that tracks the **o
 - **Contract Name:** `ReadVault.sol`  
 - **Language:** Solidity ^0.8.0  
 - **Network:** Ethereum (Testnets like Sepolia recommended)  
-- **Example Owner Address:** `0xa7B77995F4FBf311739F115960Be3dDa16b93b62`  
+- **Example contract Address:** `0xa7B77995F4FBf311739F115960Be3dDa16b93b62`  
 
 ---
 
